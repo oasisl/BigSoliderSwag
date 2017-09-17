@@ -511,3 +511,7 @@ border-bottom: 0;
 .ddbtn img{
 	float:right;
 }
+
+.my-activity {
+	padding-bottom: 11px;
+}
